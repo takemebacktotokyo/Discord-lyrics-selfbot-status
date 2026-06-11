@@ -16,7 +16,7 @@ your discord user token
 # how to set it up
 clone this repo or just download the files.
 open a terminal in the folder and install the stuff it needs:
-```pip install -r requirements.txt
+```pip install -r requirements.txt```
 open lyrics.py in a text editor.
 find the DISCORD_TOKEN variable and paste your actual discord token inside the quotes (don't share this token with anyone).
 run the script:
