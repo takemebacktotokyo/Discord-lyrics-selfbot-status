@@ -3,7 +3,7 @@ just a simple python script I made that grabs whatever music you're listening to
 
 
 
-what it does
+# what it does
 hooks into windows media controls to see what's playing.
 searches and downloads the synced lyrics for the current track.
 updates your discord status line by line as the song plays.
